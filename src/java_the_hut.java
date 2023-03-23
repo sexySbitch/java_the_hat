@@ -3,5 +3,6 @@ public class java_the_hut {
         System.out.println("The Thomas");
     }
     // test
+    // test 3
     // test 2
 }
